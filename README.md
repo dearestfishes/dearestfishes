@@ -1,5 +1,6 @@
 <div align="center">
-<img width="736" height="414" alt="swinndl" src="https://i.postimg.cc/QxYch1ch/swinndl.png)](https://postimg.cc/N5TKxyNz" />
+<img width="736" height="414" alt="swinndl" src="https://github.com/user-attachments/assets/1f226263-e5c1-4178-a724-bf05d0fd68f3" />
+
 
 
 <div align="center"> 
