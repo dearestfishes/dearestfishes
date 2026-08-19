@@ -1,6 +1,6 @@
 <div align="center">
 <picture>
-  <img alt="Project Logo" src="https://github.com/user-attachments/assets/1f226263-e5c1-4178-a724-bf05d0fd68f3">
+  <img alt="Swindle" src="https://github.com/user-attachments/assets/1f226263-e5c1-4178-a724-bf05d0fd68f3">
 </picture>
 
 <div align="center"> 
