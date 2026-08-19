@@ -7,14 +7,17 @@
 
 
 <div align="center">
-  
-  $\color{#F0BD1D}{\textup{Artist | 6teen}}$ 
-<div align="center">
 
+  $\color{#D09FED}{\textup{Artist}}$ $\color{#C3B8FC}{\textup{|}}$ $\color{#93AFF5}{\textup{6teen}}$ 
+<div align="right">
+
+<div align="center">
+  
 [Ata](https://larryberry.atabook.org/) | [Strwpage]wip
 
-  ![](https://komarev.com/ghpvc/?username=CosmeticsLairet&color=001415&style=plastic&label=💿)
+  ![](https://komarev.com/ghpvc/?username=dearestfishes&color=EDDB9F&style=plastic&label=🪸)
 
   <div align="center">
     
- $\color{#F0BD1D}{\textup{Fish}}$
+ $\color{#EDDB9F}{\textup{Fish}}$
+<div align="right">
