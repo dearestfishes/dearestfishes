@@ -15,7 +15,7 @@
   
 [Ata](https://larryberry.atabook.org/) | [Strwpage]wip
 
-  ![](https://komarev.com/ghpvc/?username=dearestfishes&color=EDDB9F&style=plastic&label=🪸)
+  ![](https://komarev.com/ghpvc/?username=dearestfishes&color=EDDB9F&style=plastic&label=🪸Jollyfellows𓏲ּ𝄢)
 
   <div align="center">
     
