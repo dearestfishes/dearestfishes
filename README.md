@@ -1,5 +1,5 @@
 <div align="center">
-<img width="736" height="414" alt="swinndl" src="[![swinndl.png](https://i.postimg.cc/QxYch1ch/swinndl.png)](https://postimg.cc/N5TKxyNz)" />
+<img width="736" height="414" alt="swinndl" src="https://i.postimg.cc/QxYch1ch/swinndl.png)](https://postimg.cc/N5TKxyNz" />
 
 
 <div align="center"> 
