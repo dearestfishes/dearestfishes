@@ -5,7 +5,7 @@
 
 <div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Slackside+One&weight=100&size=19&pause=1000&color=D490F7&width=437&lines="Wouldn't+ya'+like+to+know%2C+weather+BOY!")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F640&width=435&lines=Human+flourishing.)](https://git.io/typing-svg)
 
 <div align="center">
 
