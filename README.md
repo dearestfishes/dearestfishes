@@ -30,7 +30,7 @@ $\color{#71ACD8}{\textup{We can soar the skies together.}}$
 
   ${\textsf{\color{#62B5F0} ANY}}$ ${\textsf{\color{#7ED8F7} -  ALL}}$ ${\textsf{\color{#53D4F5} | 6TEEN }}$ ${\textsf{\color{#62B5F0} / ARTIST}}$ 
 
-  ${\textsf{\color{#ffffff} C+H - W2I - Mostly offtab }}$  <img src="https://64.media.tumblr.com/6980ed445b61844103bda96838a23f61/9411befd81169390-8b/s75x75_c1/960de68a9a813564747175e8b9187f6338db1daa.pnj" width="24"> 
+  ${\textsf{\color{#71ACD8} C+H - W2I - Mostly offtab }}$  <img src="https://64.media.tumblr.com/6980ed445b61844103bda96838a23f61/9411befd81169390-8b/s75x75_c1/960de68a9a813564747175e8b9187f6338db1daa.pnj" width="24"> 
       </td>
     </tr>
   </table>
