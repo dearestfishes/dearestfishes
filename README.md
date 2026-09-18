@@ -4,6 +4,11 @@
 </p>
 
 <p align="center">
+$\color{#71ACD8}{\textup{We can soar the skies together.}}$
+</p>
+
+
+<p align="center">
 <img src="https://i.pinimg.com/1200x/cd/38/a0/cd38a0d39373f73d3b428068c115db79.jpg" width="400" align="right">
 </p>
 
