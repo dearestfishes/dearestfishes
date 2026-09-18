@@ -20,10 +20,6 @@ $\color{#71ACD8}{\textup{We can soar the skies together.}}$
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5d341884-d8fd-476b-b714-ccac4d855a82" width="390">
 </p>
-  <p align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDCD4A&width=435&lines=Human+flourishing.)](https://git.io/typing-svg)
-  </p>
 
 <div align="center">
 
