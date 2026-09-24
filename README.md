@@ -40,7 +40,7 @@ $\color{#71ACD8}{\textup{We can soar the skies together.}}$
 
 <div align="center">
   
-[Ata](https://larryberry.atabook.org/) | straw wip
+[Ata](https://larryberry.atabook.org/) | [straw](https://dearfish.straw.page)
 
   ![](https://komarev.com/ghpvc/?username=dearestfishes&color=62B5F0&style=plastic&label=|🌕Jolly_fellows|)
 
