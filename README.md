@@ -1,36 +1,35 @@
 
   <p align="center">
-<img src="https://i.pinimg.com/736x/4b/25/c0/4b25c0ef1c0d8f5d7d729445aeaf655a.jpg" width="600">
+<img src="https://i.pinimg.com/1200x/99/1b/65/991b656bb7ad61c33b0a3bf35e950907.jpg" width="600">
 </p>
 
 <p align="center">
-$\color{#71ACD8}{\textup{We can soar the skies together.}}$
-</p>
-
-
-<p align="center">
-<img src="https://i.pinimg.com/1200x/cd/38/a0/cd38a0d39373f73d3b428068c115db79.jpg" width="400" align="right">
+$\color{#166CA6}{\textup{We will thrive and be determined.}}$
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a531eaac-5431-4c7f-96e6-f2b8a39f5ef1" width="300">
+<img src="https://i.pinimg.com/736x/ef/27/dc/ef27dc275bb7471c1ab356aabe87afe4.jpg" width="400" align="right">
 </p>
-  <p align="center">
+
+
+
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5d341884-d8fd-476b-b714-ccac4d855a82" width="390">
+<img src="https://github.com/user-attachments/assets/35f200b4-619c-4d70-aacc-74a1809938ca" width="400" align="left">
 </p>
+
+
 
 <div align="center">
 <br>
   <table>
     <tr>
       <td>
-     <img src="https://64.media.tumblr.com/c563d0d6a370a1beea22b610216d2cf0/daada3e800d3aec2-f8/s500x750/339d188c306dee5c9a6f7232c09f4e593e5f4bcd.pnj" width="40"> ${\textsf{\color{#EDDB9F} Fish -}}$ ${\textsf{\color{#EDDB9F} Satern}}$ 
+     <img src="https://64.media.tumblr.com/0599c946e12ae565203f2391ab44a7e3/e9920c8f357ee826-34/s100x200/8c524f17114062962e770f718d9e01464f7b284f.gifv" width="40"> ${\textsf{\color{#1EC2C7} Fish -}}$ ${\textsf{\color{#1EC2C7} Rownan}}$ 
 
-  ${\textsf{\color{#62B5F0} ANY}}$ ${\textsf{\color{#7ED8F7} -  ALL}}$ ${\textsf{\color{#53D4F5} | 6TEEN }}$ ${\textsf{\color{#62B5F0} / ARTIST}}$ 
+  ${\textsf{\color{#0F4694} ANY}}$ ${\textsf{\color{#166CA6} -  ALL}}$ ${\textsf{\color{#0F4694} | 6TEEN }}$ ${\textsf{\color{#166CA6} / ARTIST}}$ 
 
-  ${\textsf{\color{#EDDB9F} C+H - W2I - Mostly offtab }}$  <img src="https://64.media.tumblr.com/6980ed445b61844103bda96838a23f61/9411befd81169390-8b/s75x75_c1/960de68a9a813564747175e8b9187f6338db1daa.pnj" width="24"> 
+  ${\textsf{\color{#1EC2C7} C+H - W2I - Mostly offtab }}$  <img src="https://64.media.tumblr.com/71b22e6516394ba7443935966f36ee09/1a994cd29c83e2ba-a7/s75x75_c1/e248a9afc7f33b12ea54f955d34b02a7a34d8598.gifv" width="24"> 
       </td>
     </tr>
   </table>
@@ -42,12 +41,12 @@ $\color{#71ACD8}{\textup{We can soar the skies together.}}$
   
 [Ata](https://larryberry.atabook.org/) | [straw](https://dearfish.straw.page)
 
-  ![](https://komarev.com/ghpvc/?username=dearestfishes&color=62B5F0&style=plastic&label=|🌕Jolly_fellows|)
+  ![](https://komarev.com/ghpvc/?username=dearestfishes&color=166CA6&style=plastic&label=|🖌️|)
 
 <div align="center"> 
 
 <p align="center">
-$\color{#82E6F5}{\textup{I}}$ $\color{#72D4F2}{\textup{BLOCK}}$ $\color{#59A9F0}{\textup{FREELY}}$ 
+$\color{#0F4694}{\textup{I}}$ $\color{#166CA6}{\textup{BLOCK}}$ $\color{#0F4694}{\textup{FREELY}}$ 
 </p>
 
 
@@ -55,6 +54,6 @@ $\color{#82E6F5}{\textup{I}}$ $\color{#72D4F2}{\textup{BLOCK}}$ $\color{#59A9F0}
 <div align="center"> 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0695e6c1-b97d-4cdb-9889-698dfe18493a" width="590">
+<img src="https://i.pinimg.com/736x/3b/82/af/3b82af8cbab9bbb2db9ec9a59c6cefcd.jpg" width="590">
 </p>
   <p align="center">
